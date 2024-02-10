@@ -1,6 +1,12 @@
 # janken
 
-A new Flutter project.
+じゃんけんアプリでenumとswitchを学ぶ
+じゃんけんアプリを作り、それを元にあっち向いてホイに変更
+
+## 要件
+- enumを使う
+- switch文を使う
+- 勝ち判定をできるだけ短いコードで書く
 
 ## Getting Started
 
